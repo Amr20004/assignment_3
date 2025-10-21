@@ -1,0 +1,19 @@
+torch==1.11.0+cu113 torchvision==0.12.0+cu113 torchaudio==0.11.0
+PyYAML
+easydict
+cython
+opencv-python
+pandas
+tqdm
+pycocotools
+jpeg4py
+tb-nightly
+tikzplotlib
+thop
+colorama
+lmdb
+scipy
+visdom
+vot-toolkit==0.5.1
+timm
+yacs
